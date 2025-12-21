@@ -41,7 +41,7 @@ And if all modes share the same size, we call the tensor **cubical**. <br> <br>
 <summary>Show answer</summary>
 
 The total number of entries in a tensor is the product of its dimensions,  
-so $\text{100} \times \text{80} \times \text{60} = \text{480 000 entries}$.
+so $\text{100} \times \text{80} \times \text{60} = \text{**480 000 entries**}$.
 
 </details>
 <br>
