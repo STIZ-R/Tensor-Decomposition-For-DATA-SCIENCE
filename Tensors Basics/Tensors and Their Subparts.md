@@ -27,7 +27,7 @@ Furthermore, a Tensor of order 3 can be seen as an array of Tensor of order 2, a
 > **Definition (Higer Order):** <br>
 > A *d*-way tensor is called **higher order** if *d* ≥ 3.
 
-Let $\mathbf{X} \in \mathbb{R}^{m \times n \times p}$ be a third-order tensor, where each dimension is referred to as a **mode**:
-		     -      **mode 1** is of size *m*
-			 -      **mode 2** is of size *n*
-			 -      **mode 3** is of size *p*
+Let $\mathbf{X} \in \mathbb{R}^{m \times n \times p}$ be a third-order tensor, where each dimension is referred to as a **mode**:  <br>
+		     -      **mode 1** is of size *m* <br>
+			 -      **mode 2** is of size *n* <br>
+			 -      **mode 3** is of size *p* <br>
