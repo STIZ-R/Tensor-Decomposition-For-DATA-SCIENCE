@@ -45,5 +45,21 @@ so $\text{100} \times \text{80} \times \text{60} = \text{480 000 entries}$.
 
 </details>
 <br>
->**Exercice 1.2** - (a) Consider a 3-way tensor of size $\text{512} \times \text{512} \times \text{512}$. If each entry is a double precision value that requires 8 bytes of memory, how many gigabytes of memory are need for a tensor *(note that a gigabyte is $2^{30}$ bytes).* (b) What about a 4-way tensor of size  $\text{512} \times \text{512} \times \text{512} \times \text{512}$?
+
+> **Exercise 1.2** –  
+> (a) Consider a 3-way tensor of size $\text{512} \times \text{512} \times \text{512}$.  
+> If each entry is a double precision value that requires 8 bytes of memory, how many gigabytes of memory are needed for the tensor (note that a gigabyte is $2^{30}$ bytes)?  
+> (b) What about a 4-way tensor of size $\text{512} \times \text{512} \times \text{512} \times \text{512}$?
+
+<details>
+<summary>Show answer</summary>
+
+For the 3-way tensor, the number of entries is $512^3 = 134{,}217{,}728$,  
+so the total memory is $134{,}217{,}728 \times 8 \approx 1.07 \times 10^9$ bytes, i.e., **1 GB**.  
+
+For the 4-way tensor, the number of entries is $512^4 = 68{,}719{,}476{,}736$,  
+so the total memory is $68{,}719{,}476{,}736 \times 8 \approx 5.50 \times 10^{11}$ bytes, i.e., **512 GB**.
+
+</details>
+
 
