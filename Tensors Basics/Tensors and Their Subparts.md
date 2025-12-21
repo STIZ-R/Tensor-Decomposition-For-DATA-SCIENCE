@@ -18,16 +18,16 @@ We can say that a Tensor of oder 1 is a Vector, a Tensor of order 2 is a Matrix,
    | xn |               | x(m,1)       x(n,m)|
    +----+               +--------------------+
    a) x                          b) x          
-   ```                       
+```                      
 *a)*		A vector $\mathbf{x} \in \mathbb{R}^n$ is a tensor of order $1$. <br>
-*b)*  	A matrix $\mathbf{x} \in \mathbb{R}^{m*n}$ is a tensor of order $2$.
+*b)*  	A matrix $\mathbf{x} \in \mathbb{R}^{m\times n}$ is a tensor of order $2$.
 
 Furthermore, a Tensor of order 3 can be seen as an array of Tensor of order 2, a Tensor of order 4 can be seen as an array of Tensor of order 3, and so on.
 
 > **Definition (Higer Order):** <br>
 > A *d*-way tensor is called **higher order** if *d* ≥ 3.
 
-Let's take a Tensor of order 3 denoted as $\mathbf{X} \in \mathbb{R}^{m*n*p}$, we refer each dimension as a **mode**:
+Let $\mathbf{X} \in \mathbb{R}^{m \times n \times p}$ be a third-order tensor, where each dimension is referred to as a **mode**:
 		     -      **mode 1** is of size *m*
 			 -      **mode 2** is of size *n*
 			 -      **mode 3** is of size *p*
