@@ -19,8 +19,8 @@ We can say that a Tensor of oder 1 is a Vector, a Tensor of order 2 is a Matrix,
    +----+               +--------------------+
    a) x                          b) x          
    ```                       
-a)		*A vector $\mathbf{x} \in \mathbb{R}^n$ is a tensor of order $1$.* <br>
-b)  	*A matrix $\mathbf{x} \in \mathbb{R}^{m*n}$ is a tensor of order $2$.*
+*a)*		A vector $\mathbf{x} \in \mathbb{R}^n$ is a tensor of order $1$. <br>
+*b)*  	A matrix $\mathbf{x} \in \mathbb{R}^{m*n}$ is a tensor of order $2$.
 
 Furthermore, a Tensor of order 3 can be seen as an array of Tensor of order 2, a Tensor of order 4 can be seen as an array of Tensor of order 3, and so on.
 
