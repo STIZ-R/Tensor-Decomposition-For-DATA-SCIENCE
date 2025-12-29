@@ -1,0 +1,6 @@
+# 2.2 Vectorization
+
+The **vectorization** tranforms a tensor into a vector. It is important to understand since it's related on how the tensor is stored in computer memory.
+
+## 2.2.1 VEctorizing 3-way Tensors
+
