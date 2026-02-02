@@ -12,12 +12,15 @@ Personal notes based on the book
 
 ## How this repo is organized
 
-- `1 - Tensor Basics/`
-  - `1.1 - What is a Tensor?.md`
-  - `1.2 - Slices and Hyperslices.md`
-  - `...` 
-- `2 - Indexing and Reshaping Tensors/`
+- `I - Tensor Basics/`
+  - `1 - Tensors and Their Subparts`
+    - `1.1 What is a Tensor?`
+    - `1.2 - Slices and Hyperslices.md`
+    - `...` 
+  - `2 - Indexing and Reshaping Tensors/`
   - `...`
+- `...`
+
 
 All chapters will be covered progressively.  
 Exercises are included at the end of each section, with solutions either inline or in collapsible `<details>` blocks.
